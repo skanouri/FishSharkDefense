@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 97ae46091171546acb71b68eafa92d95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4294733019264245123
+    second: angelfish_base_0
+  - first:
+      213: 822319939208157193
+    second: angelfish_base_1
+  - first:
+      213: 868449718058027656
+    second: angelfish_base_2
+  - first:
+      213: 6304942856909853618
+    second: angelfish_base_3
+  - first:
+      213: -7060920835826582457
+    second: angelfish_base_4
+  - first:
+      213: -5490787681304362967
+    second: angelfish_base_5
+  - first:
+      213: -46851962601400266
+    second: angelfish_base_6
+  - first:
+      213: 3397419416713648429
+    second: angelfish_base_7
+  - first:
+      213: -700208418095067257
+    second: angelfish_base_8
+  - first:
+      213: 2300397024603822942
+    second: angelfish_base_9
+  - first:
+      213: 1569314634004370347
+    second: angelfish_base_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelfish_base_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 544
+        width: 314
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a79072e17b470eb2938d69ace60f8
+      internalID: 1605260193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelfish_base_50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 544
+        width: 332
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e180c7d866eb46f7a6167f893511d62
+      internalID: -1947126704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelfish_base_51
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 544
+        width: 310
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b15d2df37c4a41be487dae7e56fbd
+      internalID: 264615859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelfish_base_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 121
+        width: 313
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4cfd790b99d4ffb94138088d012441
+      internalID: -303393278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelfish_base_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 119
+        width: 310
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9968f3811240a7b18098d2b955502
+      internalID: 1703339941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelfish_base_54
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 120
+        width: 389
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746b18f10b8d4192b67df0adac5513f
+      internalID: -671733842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 351e6e205a48444278e85143b71bd044
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":50.0,"y":100.0},"gridSpritePadding":{"x":30.0,"y":200.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelfish_base_0: 4294733019264245123
+      angelfish_base_1: 822319939208157193
+      angelfish_base_10: 1569314634004370347
+      angelfish_base_11: -1229561300
+      angelfish_base_12: -20874026
+      angelfish_base_13: -436860377
+      angelfish_base_14: -1294617534
+      angelfish_base_15: 2013093677
+      angelfish_base_16: 1119837653
+      angelfish_base_17: 75165682
+      angelfish_base_18: -490264429
+      angelfish_base_19: -137372508
+      angelfish_base_2: 868449718058027656
+      angelfish_base_20: -51329727
+      angelfish_base_21: -1989160081
+      angelfish_base_22: -1008005945
+      angelfish_base_23: -733254509
+      angelfish_base_24: -637179567
+      angelfish_base_25: 580987344
+      angelfish_base_26: 607599294
+      angelfish_base_27: -748358417
+      angelfish_base_28: -436841503
+      angelfish_base_29: -524853838
+      angelfish_base_3: 6304942856909853618
+      angelfish_base_30: 1316355901
+      angelfish_base_31: -403292684
+      angelfish_base_32: -1918489104
+      angelfish_base_33: -2079560035
+      angelfish_base_34: 591629632
+      angelfish_base_35: 895172594
+      angelfish_base_36: 1574362948
+      angelfish_base_37: -1762364549
+      angelfish_base_38: -796952054
+      angelfish_base_39: -279780111
+      angelfish_base_4: -7060920835826582457
+      angelfish_base_40: 78332621
+      angelfish_base_41: 2126620129
+      angelfish_base_42: -126494671
+      angelfish_base_43: -1002578471
+      angelfish_base_44: -1482569601
+      angelfish_base_45: -208302409
+      angelfish_base_46: -1090557977
+      angelfish_base_47: -1235167546
+      angelfish_base_48: 1605260193
+      angelfish_base_49: -1414865537
+      angelfish_base_5: -5490787681304362967
+      angelfish_base_50: -1947126704
+      angelfish_base_51: 264615859
+      angelfish_base_52: -303393278
+      angelfish_base_53: 1703339941
+      angelfish_base_54: -671733842
+      angelfish_base_55: 866894483
+      angelfish_base_56: -353801411
+      angelfish_base_57: -416503592
+      angelfish_base_58: 310702336
+      angelfish_base_59: -35675868
+      angelfish_base_6: -46851962601400266
+      angelfish_base_60: -1202126547
+      angelfish_base_61: 1586789793
+      angelfish_base_62: -1749549706
+      angelfish_base_7: 3397419416713648429
+      angelfish_base_8: -700208418095067257
+      angelfish_base_9: 2300397024603822942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

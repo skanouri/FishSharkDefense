@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 947b9c779537b49bebf78096b2423179
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7109828127438717075
+    second: blackfish_evo1_0
+  - first:
+      213: 3418816787835135587
+    second: blackfish_evo1_1
+  - first:
+      213: 8179087652902378232
+    second: blackfish_evo1_2
+  - first:
+      213: 7284828323657702577
+    second: blackfish_evo1_3
+  - first:
+      213: 4276129267067152466
+    second: blackfish_evo1_4
+  - first:
+      213: 2338430013551829284
+    second: blackfish_evo1_5
+  - first:
+      213: 8283488305232507558
+    second: blackfish_evo1_6
+  - first:
+      213: -3528290754930309726
+    second: blackfish_evo1_7
+  - first:
+      213: 2576148617145172194
+    second: blackfish_evo1_8
+  - first:
+      213: 6848536473110830449
+    second: blackfish_evo1_9
+  - first:
+      213: -8902921133642467444
+    second: blackfish_evo1_10
+  - first:
+      213: -311053022589964763
+    second: blackfish_evo1_11
+  - first:
+      213: 8982683594370181277
+    second: blackfish_evo1_12
+  - first:
+      213: 2877131932104907111
+    second: blackfish_evo1_13
+  - first:
+      213: 5007580525701823016
+    second: blackfish_evo1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackfish_evo1_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 568
+        width: 418
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f3fe1dcf0d45d90800000000000000
+      internalID: -7109828127438717075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfish_evo1_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 566
+        width: 377
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3662e0f31c3127f20800000000000000
+      internalID: 3418816787835135587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfish_evo1_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 564
+        width: 406
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa970ab2e4f18170800000000000000
+      internalID: 8179087652902378232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfish_evo1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 378
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc525183c8e81560800000000000000
+      internalID: 7284828323657702577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfish_evo1_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 405
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258603999ecd75b30800000000000000
+      internalID: 4276129267067152466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfish_evo1_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 134
+        width: 437
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a58518804ef80fc0800000000000000
+      internalID: -3528290754930309726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db0576aad8eeb4c85a0c39ef107d9a4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":50.0,"y":100.0},"gridSpritePadding":{"x":30.0,"y":200.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      blackfish_evo1_0: -7109828127438717075
+      blackfish_evo1_1: 3418816787835135587
+      blackfish_evo1_10: -8902921133642467444
+      blackfish_evo1_11: -311053022589964763
+      blackfish_evo1_12: 8982683594370181277
+      blackfish_evo1_13: 2877131932104907111
+      blackfish_evo1_2: 8179087652902378232
+      blackfish_evo1_3: 7284828323657702577
+      blackfish_evo1_4: 4276129267067152466
+      blackfish_evo1_5: 2338430013551829284
+      blackfish_evo1_6: 8283488305232507558
+      blackfish_evo1_7: -3528290754930309726
+      blackfish_evo1_8: 2576148617145172194
+      blackfish_evo1_9: 6848536473110830449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

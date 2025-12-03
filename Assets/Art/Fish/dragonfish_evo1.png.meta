@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 852a736c20f4f450d89b4f85c1520394
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6362221711912501756
+    second: dragonfish_evo1_0
+  - first:
+      213: 8799549217923079544
+    second: dragonfish_evo1_1
+  - first:
+      213: 4188438963015497266
+    second: dragonfish_evo1_2
+  - first:
+      213: 3859219272249018589
+    second: dragonfish_evo1_3
+  - first:
+      213: 3976469868279725793
+    second: dragonfish_evo1_4
+  - first:
+      213: 9198854791073155779
+    second: dragonfish_evo1_5
+  - first:
+      213: -2547426496525824993
+    second: dragonfish_evo1_6
+  - first:
+      213: -9018766718241932586
+    second: dragonfish_evo1_7
+  - first:
+      213: -8551376215946426494
+    second: dragonfish_evo1_8
+  - first:
+      213: 7670297749047210485
+    second: dragonfish_evo1_9
+  - first:
+      213: -5884602326101971215
+    second: dragonfish_evo1_10
+  - first:
+      213: 887008368620154490
+    second: dragonfish_evo1_11
+  - first:
+      213: -3509965985750614268
+    second: dragonfish_evo1_12
+  - first:
+      213: 3922655701559543582
+    second: dragonfish_evo1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonfish_evo1_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 568
+        width: 368
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e7d2fbf09d4b7a0800000000000000
+      internalID: -6362221711912501756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfish_evo1_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 564
+        width: 353
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d1fd544674e1a70800000000000000
+      internalID: 8799549217923079544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfish_evo1_2
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 566
+        width: 353
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236b1f9ab03502a30800000000000000
+      internalID: 4188438963015497266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfish_evo1_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 121
+        width: 371
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd88eb82b73be8530800000000000000
+      internalID: 3859219272249018589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfish_evo1_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 128
+        width: 393
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7bd6e6424f2730800000000000000
+      internalID: 3976469868279725793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonfish_evo1_6
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 105
+        width: 505
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c09272919b5acd0800000000000000
+      internalID: -2547426496525824993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 119ae467f39164c03a45df54c05d3eef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":50.0,"y":100.0},"gridSpritePadding":{"x":30.0,"y":200.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dragonfish_evo1_0: -6362221711912501756
+      dragonfish_evo1_1: 8799549217923079544
+      dragonfish_evo1_10: -5884602326101971215
+      dragonfish_evo1_11: 887008368620154490
+      dragonfish_evo1_12: -3509965985750614268
+      dragonfish_evo1_13: 3922655701559543582
+      dragonfish_evo1_2: 4188438963015497266
+      dragonfish_evo1_3: 3859219272249018589
+      dragonfish_evo1_4: 3976469868279725793
+      dragonfish_evo1_5: 9198854791073155779
+      dragonfish_evo1_6: -2547426496525824993
+      dragonfish_evo1_7: -9018766718241932586
+      dragonfish_evo1_8: -8551376215946426494
+      dragonfish_evo1_9: 7670297749047210485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

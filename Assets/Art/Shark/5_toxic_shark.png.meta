@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: a715fb33eb38247748a5fa2bef55660f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3623172216641787829
+    second: 5_toxic_shark_0
+  - first:
+      213: -1104101480205692101
+    second: 5_toxic_shark_1
+  - first:
+      213: -6928350856091473453
+    second: 5_toxic_shark_2
+  - first:
+      213: 1766613453797217122
+    second: 5_toxic_shark_3
+  - first:
+      213: 5019178855399414375
+    second: 5_toxic_shark_4
+  - first:
+      213: 275016207576241178
+    second: 5_toxic_shark_5
+  - first:
+      213: -922269834906140844
+    second: 5_toxic_shark_6
+  - first:
+      213: -5088657621781835319
+    second: 5_toxic_shark_7
+  - first:
+      213: -7961949666983902384
+    second: 5_toxic_shark_8
+  - first:
+      213: -6477761973394431433
+    second: 5_toxic_shark_9
+  - first:
+      213: 8776132905532874270
+    second: 5_toxic_shark_10
+  - first:
+      213: 4819664346731202554
+    second: 5_toxic_shark_11
+  - first:
+      213: -8681979815609861045
+    second: 5_toxic_shark_12
+  - first:
+      213: -4815397979724311657
+    second: 5_toxic_shark_13
+  - first:
+      213: -496216529849841373
+    second: 5_toxic_shark_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_toxic_shark_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 562
+        width: 480
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79ff44fe7184230800000000000000
+      internalID: 3623172216641787829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_toxic_shark_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 549
+        width: 391
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e467ba9d89df90800000000000000
+      internalID: -6928350856091473453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_toxic_shark_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 549
+        width: 392
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149e00a8cd01d300800000000000000
+      internalID: 275016207576241178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_toxic_shark_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 163
+        width: 447
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11c169ad47169b0800000000000000
+      internalID: -5088657621781835319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_toxic_shark_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 146
+        width: 430
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732aa4c4ecd5a16a0800000000000000
+      internalID: -6477761973394431433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_toxic_shark_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 147
+        width: 375
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e57ef21661bc970800000000000000
+      internalID: 8776132905532874270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca7b5bce38e5e4dad993cb361b7a5178
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":50.0,"y":100.0},"gridSpritePadding":{"x":30.0,"y":200.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      5_toxic_shark_0: 3623172216641787829
+      5_toxic_shark_1: -1104101480205692101
+      5_toxic_shark_10: 8776132905532874270
+      5_toxic_shark_11: 4819664346731202554
+      5_toxic_shark_12: -8681979815609861045
+      5_toxic_shark_13: -4815397979724311657
+      5_toxic_shark_14: -496216529849841373
+      5_toxic_shark_2: -6928350856091473453
+      5_toxic_shark_3: 1766613453797217122
+      5_toxic_shark_4: 5019178855399414375
+      5_toxic_shark_5: 275016207576241178
+      5_toxic_shark_6: -922269834906140844
+      5_toxic_shark_7: -5088657621781835319
+      5_toxic_shark_8: -7961949666983902384
+      5_toxic_shark_9: -6477761973394431433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

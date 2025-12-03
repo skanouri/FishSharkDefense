@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: d3f450b4d96a74e15a0faa90df09873f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5607940434445783822
+    second: goldenfish_evo2_0
+  - first:
+      213: 3807206209807921764
+    second: goldenfish_evo2_1
+  - first:
+      213: -8555588037772198133
+    second: goldenfish_evo2_2
+  - first:
+      213: -3493087468664253119
+    second: goldenfish_evo2_3
+  - first:
+      213: -8131739298385170921
+    second: goldenfish_evo2_4
+  - first:
+      213: -8390490344200260999
+    second: goldenfish_evo2_5
+  - first:
+      213: 659227462474039479
+    second: goldenfish_evo2_6
+  - first:
+      213: 6771979706484527462
+    second: goldenfish_evo2_7
+  - first:
+      213: -4317971535005099995
+    second: goldenfish_evo2_8
+  - first:
+      213: -7454751852607492839
+    second: goldenfish_evo2_9
+  - first:
+      213: -5014599483133305796
+    second: goldenfish_evo2_10
+  - first:
+      213: -4175274834323840909
+    second: goldenfish_evo2_11
+  - first:
+      213: -7547809806563781109
+    second: goldenfish_evo2_12
+  - first:
+      213: 4435905110079989941
+    second: goldenfish_evo2_13
+  - first:
+      213: -8693860767165635130
+    second: goldenfish_evo2_14
+  - first:
+      213: -2885887734685460031
+    second: goldenfish_evo2_15
+  - first:
+      213: 255999013227971238
+    second: goldenfish_evo2_16
+  - first:
+      213: 2604067399169815746
+    second: goldenfish_evo2_17
+  - first:
+      213: -6143379166528186259
+    second: goldenfish_evo2_18
+  - first:
+      213: 4519549165927850914
+    second: goldenfish_evo2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldenfish_evo2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 551
+        width: 382
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03d0bcec1863dd40800000000000000
+      internalID: 5607940434445783822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenfish_evo2_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 547
+        width: 389
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462334a50e9e5d430800000000000000
+      internalID: 3807206209807921764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenfish_evo2_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 554
+        width: 375
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb1045202744980800000000000000
+      internalID: -8555588037772198133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenfish_evo2_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 416
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eeaa12132462f80800000000000000
+      internalID: -8131739298385170921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenfish_evo2_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 71
+        width: 442
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97239969c7dfe8b80800000000000000
+      internalID: -8390490344200260999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenfish_evo2_7
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 65
+        width: 473
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6611a2fd9a7eafd50800000000000000
+      internalID: 6771979706484527462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c23452f95d4e145a9860367bc4ce9a33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":50.0,"y":100.0},"gridSpritePadding":{"x":30.0,"y":200.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      goldenfish_evo2_0: 5607940434445783822
+      goldenfish_evo2_1: 3807206209807921764
+      goldenfish_evo2_10: -5014599483133305796
+      goldenfish_evo2_11: -4175274834323840909
+      goldenfish_evo2_12: -7547809806563781109
+      goldenfish_evo2_13: 4435905110079989941
+      goldenfish_evo2_14: -8693860767165635130
+      goldenfish_evo2_15: -2885887734685460031
+      goldenfish_evo2_16: 255999013227971238
+      goldenfish_evo2_17: 2604067399169815746
+      goldenfish_evo2_18: -6143379166528186259
+      goldenfish_evo2_19: 4519549165927850914
+      goldenfish_evo2_2: -8555588037772198133
+      goldenfish_evo2_3: -3493087468664253119
+      goldenfish_evo2_4: -8131739298385170921
+      goldenfish_evo2_5: -8390490344200260999
+      goldenfish_evo2_6: 659227462474039479
+      goldenfish_evo2_7: 6771979706484527462
+      goldenfish_evo2_8: -4317971535005099995
+      goldenfish_evo2_9: -7454751852607492839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
